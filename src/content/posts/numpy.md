@@ -143,19 +143,25 @@ print(e)
 *axis=3 $\rightarrow$ 删掉 D，结果形状是 (A, B, C)*
 **求和**
 `np.sum()`
+
 **最大最小**
 `np.max()`
 `np.min()`
+
 **平均值**
 `np.average()`
+
 **中位数**
 `np.median()`
+
 **累加**
 `np.cumsum()`   
 具体可以参考代码（类似于前缀和）
+
 **累差**
 `np.diff()`     
 类似于差分，但是是按第一维度运算的
+
 ```
 import numpy as np
 a=np.random.random((2,4))       #前一个是模块，后一个是函数
