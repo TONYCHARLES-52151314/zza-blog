@@ -1,10 +1,10 @@
 ---
-title: week01
+title: March_2026
 published: 2026-03-01
-description: first week of the second semester of freshman year
+description: first month of the second semester of freshman year
 image: ''
 tags: [diary]
-category: 周记
+category: 月记
 draft: false 
 ---
 # week 01
@@ -23,35 +23,33 @@ python廖雪峰完结，然后周末花时间去学实战书
 日常一天做一两个算法题目（看牛客算法入门课或者洛谷书），然后写博客
 
 开始背单词
-## 其他
-面基Li
 
-jnuai club 得把显示器搬到俱乐部去
+### 总结
+#### 学习
+一堆没做到
+学了一点南科大的c++
+打acm招新突击了几个晚上结果爆0了😄，看来还是得好好练
 
-### MONDAY
-#### c++
-过了一下南科大c++的c部分
-重点看了预处理宏吗，编译链接，命令行
-然后lec9看了一点点
+#### 生活
+BrokeUp弄得bro很难过
+😞😞😞
 
-#### py
-tolearn
+# week 02
+这个礼拜开始准备all in科研
+### 总结
+#### 学习
+开始看了一点点李沐，但是看到线性代数求导那里没怎么看懂
 
-#### 算法
-看了一个并查集的例子
-晚上看往年定选的题目
+然后开始看吴恩达的课，目前把week02看完做完hw，哈基米帮了不少忙
 
-#### English
+然后仔细学了dfs,bfs和dp的入门，还没有开始刷题
 
-### Tuesday
-#### c++
-学了一点lec9,构造函数和析构函数
-#### 算法
-在舍友的帮助下学了一个很好的二分模版
-所以说讨论之后学起来很快，要多进行有意义的交流，而不是一直做一些无意义的社交
+#### 生活
+一个人吃饭一个人上课好孤独,希望能慢慢适应过来吧
 
-继续学了一个并查集的题目
-#### py
-tolearn,好几天没学了,明天干一下项目
-#### english
-just recite some words
+#### todo
+* 大物高数刷题，小测准备
+* u校园还没刷时长
+* 伦理课的作业还没搞
+* dfsbfsdp的博客还没写，题还没刷
+* 深度学习还要整理一下
