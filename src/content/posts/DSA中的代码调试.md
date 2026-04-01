@@ -5,7 +5,7 @@ description: NONE
 image: ""
 tags:
   - notes
-category: DSA
+category: basicskill
 draft: false
 ---
 1.静态阅读代码

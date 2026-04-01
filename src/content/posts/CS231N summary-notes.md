@@ -1,24 +1,11 @@
 ---
-
----
----
-
-title:CS231N(2019)summary-notes
-
+title: CS231N(2019)summary-notes
 published: 2026-04-01
-
 description: NONE
-
-image: ""
-
-tags:
-
-  - notes
-
-category: DeepLearning Notes
-
-draft: false
-
+image: ''
+tags: [deeplearning]
+category: 学习笔记
+draft: false 
 ---
 # Lec 1 
 cv的历史和一些基本的挑战

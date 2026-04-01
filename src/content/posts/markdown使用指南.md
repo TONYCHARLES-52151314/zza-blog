@@ -4,7 +4,7 @@ published: 2026-02-20
 description: markdown学习记录
 image: ''
 tags: [工具]
-category: 学习笔记
+category: basicskill
 draft: false 
 ---
 ##### 缘起 

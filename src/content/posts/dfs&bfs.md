@@ -4,7 +4,7 @@ published: 2026-03-14
 description: DSA-DFS&BFS
 image: ''
 tags: [DSA学习]
-category: 算法笔记
+category: 学习笔记笔记
 draft: false 
 ---
 ## DFS

@@ -4,7 +4,7 @@ published: 2026-03-16
 description: c++ class&object
 image: ''
 tags: [c++]
-category: c++学习笔记
+category: 学习笔记
 draft: false 
 ---
 结构体->类
